@@ -61,7 +61,7 @@ class _HistoryScreenState extends State<HistoryScreen> {
   Widget build(BuildContext context) {
     final screenHeight = MediaQuery.of(context).size.height;
     final screenWidth = MediaQuery.of(context).size.width;
-    final double containerHeight = screenHeight * 0.33;
+    const double containerHeight = 270;
     final double containerWidth = screenWidth - 8;
     final double firstContainerWidgth = containerWidth * 0.75;
     final double secondContainerWidth = containerWidth * 0.2;
