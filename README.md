@@ -1,16 +1,10 @@
 # deep_care_test
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/28042229/174102701-7fc93918-4fd0-4bd3-9a39-cf0388e5263c.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+screenshot![photo1655392543](https://user-images.githubusercontent.com/28042229/174103355-ff59ab98-2832-475e-b8bc-9b533bcc6471.jpeg)
